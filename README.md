@@ -1,4 +1,4 @@
-## Hi 👋🏿, I'm David Jordan
+## Hey! I'm David 👨🏿‍💻⚡️
 
 <!--
 **djordan015/djordan015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a graduate student at RIT studying Computer Science, passionate about breaking into the tech industry and building software that solves real-world problems at the intersection of data, engineering, and user experience.
+
+Right now, I’m building apps with SwiftUI and expanding my skills in machine learning and data science.
+
+I’m eager to apply my skills to impactful software engineering challenges, grow through collaboration, and contribute to mission-driven work. Always open to connecting with peers, mentors, and opportunities in software engineering.
 

@@ -20,3 +20,5 @@ Right now, I’m building apps with SwiftUI and expanding my skills in machine l
 
 I’m eager to apply my skills to impactful software engineering challenges, grow through collaboration, and contribute to mission-driven work. Always open to connecting with peers, mentors, and opportunities in software engineering.
 
+### 🍱 I’m currently working on _Potluck_ 🔥
+A recipe management app that allows user to manage their creations, share them with friends, and generate new recipes utilizing Google's Gemini LLM
